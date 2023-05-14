@@ -1,5 +1,3 @@
-# 🚧 WORK IN PROGRESS. See [#1](https://github.com/wolfy1339/octoherd-script-replace-pika-with-esbuild/pull/1) | [Preview](https://github.com/wolfy1339/octoherd-script-replace-pika-with-esbuild/tree/initial-version)
-
 # octoherd-script-replace-pika-with-esbuild
 
 > Octoherd script to replace Pika with ESBuild
